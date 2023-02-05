@@ -4,11 +4,13 @@
     <a href="https://www.linkedin.com/in/m-ehatesham-ul-islam/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-<a href="https://www.facebook.com/shikdershondhi/">
-      <img src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+
+<a href="https://sites.google.com/view/mehateshamulislam/about">
+      <img src="https://img.shields.io/badge/WEBSITE-green?style=for-the-badge&logo=html5&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+
 <a href="https://github.com/ish-wtag">
-      <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" alt="Facebook Badge"/>
+      <img src="https://img.shields.io/badge/GITHUB-gray?style=for-the-badge&logo=github&logoColor=white" alt="Facebook Badge"/>
     </a>
 
   </div>
