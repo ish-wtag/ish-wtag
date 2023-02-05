@@ -4,6 +4,12 @@
     <a href="https://www.linkedin.com/in/m-ehatesham-ul-islam/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+<a href="https://www.facebook.com/shikdershondhi/">
+      <img src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+<a href="https://github.com/ish-wtag">
+      <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" alt="Facebook Badge"/>
+    </a>
 
   </div>
   <img src="https://komarev.com/ghpvc/?username=ish-wtag&style=flat-square&color=blueviolet" alt=""/>
@@ -18,17 +24,17 @@
 
 ---
 
-### :: About Me ::
+### :fire: About Me ::
 I am a Full Stack QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 - :telescope: I’m working as a Software QA Engineer and contributing to Software building & Testing & Quality Control.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, i read tech books & post to my :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-ehatesham-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-ehatesham-ul-islam/)
+- :zap: In my free time, I read tech books & post to my :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-ehatesham-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-ehatesham-ul-islam/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### : hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
