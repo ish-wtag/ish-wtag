@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/WEBSITE-green?style=for-the-badge&logo=html5&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 
-<a href="https://github.com/ish-wtag">
+<a href="https://github.com/shikdershondhi">
       <img src="https://img.shields.io/badge/GITHUB-gray?style=for-the-badge&logo=github&logoColor=white" alt="Facebook Badge"/>
     </a>
 
